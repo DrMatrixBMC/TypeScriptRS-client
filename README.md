@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Client2 - May 18, 2004</h1>
+<h1>TypeScriptRS-client - May 18, 2004</h1>
 
 
 
